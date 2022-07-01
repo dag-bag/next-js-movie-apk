@@ -1,0 +1,16 @@
+.btn {
+  background: #efc147;
+  font-size: 1.3rem;
+  color: #07080f;
+  padding: 0.4rem;
+  cursor: pointer;
+  margin: 0 0.4rem;
+}
+
+.Ccontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 10vh;
+}
